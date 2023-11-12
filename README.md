@@ -1,2 +1,4 @@
 # git-demo
-this is demo for git
+This is demo for git
+Authir - vanraj bhutiya
+
